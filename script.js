@@ -10,6 +10,6 @@ noBtn.addEventListener("mouseover", () => {
 });
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "YAY!!! 💕 I knew you'd say yes 😍";
+  question.innerHTML = "Enikk ariyaa nee yes paryuenn... No aanel ninne njn ondalloooo";
   document.querySelector(".buttons").style.display = "none";
 });
